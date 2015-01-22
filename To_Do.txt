@@ -1,0 +1,5 @@
+****  TO DO LIST *****
+
+[] Validate html
+[] Validate css
+[] 
