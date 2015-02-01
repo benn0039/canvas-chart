@@ -20,7 +20,7 @@ tasked with creating a couple of graphs in an HTML5 canvas tag using our javascr
       - determine bar and spacing sizes, (equally spaced based on number of records)
       - loop through each data element -> draw bars & labels
       
-This markdown stuff if pretty cool.
+This markdown stuff is pretty cool.
 
 JRB
 
