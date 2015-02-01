@@ -8,10 +8,16 @@ tasked with creating a couple of graphs in an HTML5 canvas tag using our javascr
 
 ###How it Works:
 1. A javascript data object is dynamically loaded.  
-2. Pie Graph
+2. Pie Graph:
       - Loop through each data element,
-      - determine starting and ending angles,
+      - determine starting and ending angles to draw,
+      - run condition to check for smallest or biggest value, (change radius value)
       - place leader for captions in the middle of section,
-      - place caption at end of leader,
-      - 
+      - place caption at end of leader
+1. Bar Graph:
+      - Draw axis and grid lines,
+      - determine bar and spacing sizes, (equally spaced based on number of records)
+      - draw bars & labels,
+
+
 
